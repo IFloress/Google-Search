@@ -1,2 +1,2 @@
 # Google-Search
-Project for the course B7WEB
+Pagina de resultados do Google
